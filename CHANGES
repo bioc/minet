@@ -1,3 +1,8 @@
+minet_3.20.1
+      -c++ validate bug correction
+      -using namespace std
+      -dup = false 
+      -now imports infotheo
 minet_1.1.1 
       - a vignette minet.Rnw has been added
 minet_1.1.2
