@@ -1,5 +1,6 @@
 useDynLib(minet)
 
+import(infotheo)
 importFrom(graphics, lines, plot, points)
 importFrom(grDevices, dev.cur, dev.new, dev.set)
 importFrom(stats, cor)
